@@ -6,9 +6,9 @@
 	url = https://gitlab.com/libeigen/eigen.git
 [submodule "thirdparty/instant-ngp"]
 	path = thirdparty/instant-ngp
-	url = https://github.com/ToniRV/instant-ngp.git
-	branch = feature/nerf_slam
+	url = https://github.com/triplefat/instant-ngp.git
+	branch = master
 [submodule "thirdparty/gtsam"]
 	path = thirdparty/gtsam
-	url = https://github.com/ToniRV/gtsam-1.git
-	branch = feature/nerf_slam
+	url = https://github.com/borglab/gtsam.git
+	branch = develop
